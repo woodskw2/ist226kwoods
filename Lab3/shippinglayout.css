@@ -1,0 +1,31 @@
+/* 
+	Keith Woods
+	09/19/2019
+*/
+
+body {
+	font-size: 1.1em;
+	font-family: Arial, Helvetica;
+	background-color: #c19b76;
+	}
+h1 {
+	font-style: italic;
+	font-size: 150%;
+	font-family: "Cooper Black";
+	}
+h2 {
+	background-color: teal;
+	color: white;
+	}
+h3 {
+	background-color: teal;
+	color: white;
+	}
+h4 {
+	font-variant: small-caps;
+	}
+em {
+	color: green;
+	font-weight: bolder;
+	font-style: normal;
+	}
